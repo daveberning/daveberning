@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:3D9E91,100:0D1E25&amp;height=220&amp;section=header&amp;text=Dave%20Berning&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20Front-End%20Software%20Engineer%20%7C%20Cincinnati%2C%20OH&amp;descAlignY=55&amp;descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=3D9E91&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=11%2B+years+building+Vue+SPAs;Building+enterprise+design+systems+and+component+libraries;Leading+front-end+standards+and+development+at+Walker+and+Dunlop;Teaching+at+the+University+of+Cincinnati" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=3D9E91&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=11%2B+years+building+Vue+SPAs;Building+enterprise+design+systems+and+component+libraries;Leading+front-end+standards+and+development+at+Walker+%26+Dunlop;Teaching+Web+Design+I+at+the+University+of+Cincinnati" />
 </a>
 
 <br />
@@ -49,6 +49,7 @@ While Vue is my daily driver...I also have experience shipping production applic
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-3FAC44?style=for-the-badge&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
