@@ -117,7 +117,7 @@ While Vue is my daily driver...I also have experience shipping production applic
       <b>Andrès Pegado-Boureghida</b><br />
       <sub>Principal Software Engineer · HelloData.ai</sub>
       <blockquote>
-      Worked with and managed Dave for 5 years. Praises his broad knowledge of front-end frameworks, his grasp of core architectural principles, and his ability to balance product priorities — calling him a technical leader for the whole company, not just his team.
+        Dave's a master of front-end development — he knows his way around every framework we've worked with together. He's outgoing, confident, always positive, and a great coworker.
       </blockquote>
     </td>
     <td width="50%" valign="top" align="center">
@@ -125,7 +125,7 @@ While Vue is my daily driver...I also have experience shipping production applic
       <b>Gregory Howlett-Gomez</b><br />
       <sub>Senior Software Engineer · Apex Fintech Solutions</sub>
       <blockquote>
-      Highlights Dave's rare combination of strong technical ability and the communication skills to translate that value for non-technical teams — someone who keeps the whole team aligned and always makes time to share knowledge with others.
+        I've worked with Dave for 5 years and managed him for 2 of those. He's a great asset with a wide knowledge of front-end frameworks and practices, and he understands core architectural principles well enough to balance priorities with product. He's been a technical leader for the whole company, not just our team.
       </blockquote>
     </td>
   </tr>
@@ -135,7 +135,7 @@ While Vue is my daily driver...I also have experience shipping production applic
       <b>Jess Fitak</b><br />
       <sub>Head of Customer Success · HelloData.ai</sub>
       <blockquote>
-      Partnered with Dave for over ten years across multiple employers, even hiring each other as freelancers along the way. Describes him as a design-friendly developer who stays true to scope while adding thoughtful personal touches to every project.
+      It's rare to find someone with strong technical skills who can also communicate that value to non-technical teams, but that's Dave. He keeps everyone aligned and always makes time to share knowledge with the people around him.
       </blockquote>
     </td>
     <td width="50%" valign="top" align="center">
@@ -143,7 +143,7 @@ While Vue is my daily driver...I also have experience shipping production applic
       <b>Brett Valls</b><br />
       <sub>AVP, Art Director · Walker & Dunlop</sub>
       <blockquote>
-      Calls Dave a master of front-end development who knows his way around every framework they've worked with together, praising his positive attitude and describing him as a great coworker.
+      Dave and I have partnered together for over ten years across multiple employers, even hiring each other as freelancers along the way. He's a design-friendly developer who stays true to scope while still adding thoughtful personal touches to every project.
       </blockquote>
     </td>
   </tr>
